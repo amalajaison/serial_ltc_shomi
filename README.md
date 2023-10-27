@@ -10,4 +10,4 @@ This is used as the brain for our 64-channel current source.
 There are four 16-channel LTC2668 chips using four different
 chip select pins on the Arduino.
 
-This line was written by Jeff.
+This README was written jointly by Amala and Jeff.
